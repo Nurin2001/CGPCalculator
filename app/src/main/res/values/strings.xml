@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CGPA Calculator</string>
+    <string name="cgpa">CGPA</string>
+    <string name="calculator">Calculator</string>
+    <string name="gpaBtn">GPA</string>
+    <string name="noSem">Number of Semester:</string>
+    <string name="noSub">Number of Subject:</string>
+    <string name="Next">Next</string>
+</resources>

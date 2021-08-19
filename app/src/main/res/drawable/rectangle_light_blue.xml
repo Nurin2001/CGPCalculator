@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <svg width="337" height="341" viewBox="0 0 337 341" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <rect x="-259" y="182.186" width="523.216" height="283.361" transform="rotate(-56.0824 -259 182.186)" fill="#267BFB"/>
+        <rect x="-235" y="37.8105" width="523.216" height="285" transform="rotate(-45.1304 -235 37.8105)" fill="#4F95FE"/>
+        <rect x="-275" y="-50.2939" width="523.216" height="285" transform="rotate(-30.2656 -275 -50.2939)" fill="#62A1FF"/>
+    </svg>
+</selector>
